@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Middle of the Code is my attempt to publish my code and learning. Since it is a personal blog, I will from time to time publish items that interest me. 
