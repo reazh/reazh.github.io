@@ -1,3 +1,8 @@
+---
+layout: default
+title: "About Me"
+---
+
 ## Engineer • Coder • Aviator
 
 I design, build, and analyze with precision — from digital logic and software development to real-world aviation. 
