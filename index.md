@@ -1,1 +1,9 @@
-Middle of the Code is my attempt to publish my code and learning. Since it is a personal blog, I will from time to time publish items that interest me. 
+---
+layout: default
+title: "About Me"
+---
+
+## Engineer • Coder • Aviator
+
+I design, build, and analyze with precision — from digital logic and software development to real-world aviation. This blog is where I share code, insights, and ideas that bridge technical expertise with hands-on experience.
+
